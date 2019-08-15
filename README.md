@@ -2,7 +2,7 @@
 
 영찬이와 라그랑주가 함께하는 Magix Triple 333 수학 **이쒸**
 
-이번 **이쒸**는 포항공대 수학경시 문제 모음에 도전했다.
+이번 **이쒸**는 [포항공대 수학경시 문제 모음](./포항공대수학경시대회.pdf)에 도전했다.
 
 이전에 했던 수학이쒸 
 - [JewishProblem](https://github.com/Big-BlueBerry/JewishProblems)
